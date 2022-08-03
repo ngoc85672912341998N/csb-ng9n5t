@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/main.9e9142cc.chunk.js",
+    "main.js.map": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/main.9e9142cc.chunk.js.map",
+    "runtime-main.js": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/runtime-main.a5b91acd.js",
+    "runtime-main.js.map": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/runtime-main.a5b91acd.js.map",
+    "static/js/2.63fc25ca.chunk.js": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/2.63fc25ca.chunk.js",
+    "static/js/2.63fc25ca.chunk.js.map": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/2.63fc25ca.chunk.js.map",
+    "index.html": "https://ngoc85672912341998n.github.io/csb-ng9n5t/index.html",
+    "precache-manifest.da43867b9b3e7ad1c21d1c35eb8b3469.js": "https://ngoc85672912341998n.github.io/csb-ng9n5t/precache-manifest.da43867b9b3e7ad1c21d1c35eb8b3469.js",
+    "service-worker.js": "https://ngoc85672912341998n.github.io/csb-ng9n5t/service-worker.js",
+    "static/js/2.63fc25ca.chunk.js.LICENSE.txt": "https://ngoc85672912341998n.github.io/csb-ng9n5t/static/js/2.63fc25ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5b91acd.js",
+    "static/js/2.63fc25ca.chunk.js",
+    "static/js/main.9e9142cc.chunk.js"
+  ]
+}
